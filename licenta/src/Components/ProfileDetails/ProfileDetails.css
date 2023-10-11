@@ -1,0 +1,53 @@
+.profiledetails_container {
+    height: auto;
+    width: 775px;
+    background-color: white;
+    border: 1px solid #DBDBDB;
+    margin-top: 25px;
+    display: flex;
+    padding: 20px;
+}
+
+.profiledetails_profile{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.profileimage {
+    width: 200px;
+    height: 200px;
+}
+
+.profiledetails_details {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.profiledetails_username {
+    display: flex;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.profiledetails_settings {
+    margin-left: 100px;
+    margin-top: 5px;
+}
+
+.profiledetails_data {
+    display: flex;
+    margin-top: 15px;
+}
+
+.data_text {
+    margin-left: 50px;
+}
+
+.profiledetails_about {
+    margin-top: 20px;
+}
+
+.about_text {
+    margin-top: 5px;
+
+}

@@ -1,0 +1,8 @@
+.profileposts_container {
+    height: auto;
+    width: 819px;
+    background-color: white;
+    border: 1px solid #DBDBDB;
+    margin-top: 25px;
+    display: flex;
+}

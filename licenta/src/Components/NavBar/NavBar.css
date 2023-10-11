@@ -1,0 +1,21 @@
+.navbar_barContent {
+    height: 54px;
+    background-color: white;
+    border-bottom: 1px solid #DBDBDB;
+}
+
+.navbar_logo {
+    margin-top: 10px;
+}
+
+.navbar_img {
+    margin: 15px 10px;
+}
+
+
+.navbar_logout {
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    margin: 15px 10px;
+  }

@@ -1,0 +1,82 @@
+.loginpage_main {
+    display: flex;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.loginpage_logo {
+    text-align: center;
+    width: 175px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.loginpage_rightcomponent {
+    width: 380px;
+    padding-bottom: 25px;
+    border: 1px solid #DBDBDB;
+    margin-top: 25px;
+    background-color: white;
+    text-align: center;
+}
+
+.loginpage_signin {
+    margin-top: 25px;
+}
+
+.loginpage_text {
+    width: 258px;
+    height: 36px;
+    margin: 5px;
+    border: 1px solid #DBDBDB;
+    background-color: #FAFAFA;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.login_button {
+    width: 270px;
+    height: 40px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 5px;
+    border: 1px solid #EA906C;
+    background-color: #EA906C;
+    color: white;
+}
+
+.login_ordiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.login_divor {
+    width: 110px;
+    height: 0px;
+    margin-top: 10px;
+    border: 1px solid #DBDBDB
+}
+
+.login_or {
+    margin: 0px 25px;
+    font-weight: bold;
+    color: #8E8E8E;
+}
+
+
+.loginpage_signupoption {
+    margin-left: 15px;
+    margin-top: 25px;
+    height: 56px;
+    width: 350px;
+    background-color: white;
+    border: 1px solid #DBDBDB;
+}
+
+.loginpage_signup {
+    margin-top: 15px;
+}
+.loginpage_signIn {
+    margin-top: 15px;
+}
